@@ -104,7 +104,7 @@ Production_ML_Pipeline_with_MLOps/
 
 ### 1. Installation
 ```bash
-git clone https://github.com/yourusername/Production_ML_Pipeline_with_MLOps.git
+git clone https://github.com/Vanshika0912/Production_ML_Pipeline_with_MLOps.git
 cd Production_ML_Pipeline_with_MLOps
 
 pip install -r requirements.txt
